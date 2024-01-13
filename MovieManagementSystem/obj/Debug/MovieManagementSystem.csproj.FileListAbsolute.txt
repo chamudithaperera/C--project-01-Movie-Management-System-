@@ -1,0 +1,48 @@
+Z:\Visual Programming\Assignment - 08.12.2023\MovieManagementSystem\bin\Debug\MovieManagementSystem.exe.config
+Z:\Visual Programming\Assignment - 08.12.2023\MovieManagementSystem\bin\Debug\MovieManagementSystem.exe
+Z:\Visual Programming\Assignment - 08.12.2023\MovieManagementSystem\bin\Debug\MovieManagementSystem.pdb
+Z:\Visual Programming\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.csprojAssemblyReference.cache
+Z:\Visual Programming\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.AddMovieDetails.resources
+Z:\Visual Programming\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.Form1.resources
+Z:\Visual Programming\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.Properties.Resources.resources
+Z:\Visual Programming\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.ViewMovieDetails.resources
+Z:\Visual Programming\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.csproj.GenerateResource.cache
+Z:\Visual Programming\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.exe
+Z:\Visual Programming\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.pdb
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\bin\Debug\MovieManagementSystem.exe.config
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\bin\Debug\MovieManagementSystem.exe
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\bin\Debug\MovieManagementSystem.pdb
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.csproj.AssemblyReference.cache
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.AddMovieDetails.resources
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.Properties.Resources.resources
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.ViewMovieDetails.resources
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.csproj.GenerateResource.cache
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.exe
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.pdb
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.Details.resources
+C:\Users\LasangaPC\Desktop\Assignment - 08.12.2023\MovieManagementSystem\obj\Debug\MovieManagementSystem.Welcome.resources
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\bin\Debug\MovieManagementSystem.exe.config
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\bin\Debug\MovieManagementSystem.exe
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\bin\Debug\MovieManagementSystem.pdb
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.AddMovieDetails.resources
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.Details.resources
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.Welcome.resources
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.Properties.Resources.resources
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.csproj.GenerateResource.cache
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.exe
+C:\Users\Ruwini Tharanga\Downloads\2020ICT58-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.pdb
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\bin\Debug\MovieManagementSystem.exe.config
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\bin\Debug\MovieManagementSystem.exe
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\bin\Debug\MovieManagementSystem.pdb
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.AddMovieDetails.resources
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.Details.resources
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.Welcome.resources
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.exe
+C:\Users\ASUS\Downloads\2020ICT20 Assignment-02\2020ICT20-Assignment-02\MovieManagementSystem\obj\Debug\MovieManagementSystem.pdb
