@@ -30,6 +30,13 @@ namespace MovieManagementSystem
             labelDirector.Text = addMovieDet.getDirector();
             labelEmail.Text = addMovieDet.getEmail();
             labelProductionCompany.Text = addMovieDet.getPeoductionCompany();
+
+            labelMovieName.Text = addMovieDet.getMovieName();
+            labelMovieID.Text = addMovieDet.getMovieID();
+            labelReview.Text = addMovieDet.getReview();
+            labelDirector.Text = addMovieDet.getDirector();
+            labelEmail.Text = addMovieDet.getEmail();
+            labelProductionCompany.Text = addMovieDet.getPeoductionCompany();
         }
 
         private void Details_Load(object sender, EventArgs e)
