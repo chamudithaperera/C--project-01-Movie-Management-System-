@@ -46,12 +46,6 @@ namespace MovieManagementSystem
             addMovieDet.Show();
             this.Hide();
 
-            if(addMovieDet == null || addMovieDet.IsDisposed)
-            {
-                addMovieDet = new AddMovieDetails(this);
-            }
-            addMovieDet.Show();
-            this.Hide();
         }
     }
 }
